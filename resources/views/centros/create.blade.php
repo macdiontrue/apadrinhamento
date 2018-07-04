@@ -14,4 +14,5 @@
 
 <a class='btn btn-info btn-xs' href="/padrinho_crianca/{{$padrinho->id}}/{{$crianca->id}}">
       <span class="glyphicon glyphicon-save"></span>Apadrinhar</a>
+  <a href="/centro" class="btn btn-danger btn-xs"><span class="glyphicon glyphicon-remove"></span> Cancelar</a>
 @endsection
